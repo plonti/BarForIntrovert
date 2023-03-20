@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarForIntrovert", "BarForIntrovert\BarForIntrovert.csproj", "{1D00B2A6-1722-45F2-9E6D-C2A5A860DFB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarForIntrovert.Tests", "BarForIntrovert.Tests\BarForIntrovert.Tests.csproj", "{2E736E23-32C8-4886-8746-232534F958F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D00B2A6-1722-45F2-9E6D-C2A5A860DFB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D00B2A6-1722-45F2-9E6D-C2A5A860DFB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D00B2A6-1722-45F2-9E6D-C2A5A860DFB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D00B2A6-1722-45F2-9E6D-C2A5A860DFB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E736E23-32C8-4886-8746-232534F958F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E736E23-32C8-4886-8746-232534F958F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E736E23-32C8-4886-8746-232534F958F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E736E23-32C8-4886-8746-232534F958F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30C1A7FE-B2C0-4B66-BFA2-A90608948909}
+	EndGlobalSection
+EndGlobal
