@@ -20,7 +20,7 @@
                     spareIndex = i - maxSpareLength + 1;
                 }
 
-                if (maxSpareLength == spareLength && i == seats.Length - 1) {
+                if (i == seats.Length - 1 && maxSpareLength == spareLength) {
                     spareIndex = i - maxSpareLength + 1;
                 }
             }
